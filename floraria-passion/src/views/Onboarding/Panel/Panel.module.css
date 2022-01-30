@@ -1,0 +1,14 @@
+.panel {
+
+}
+
+.panel hr {
+    margin: 3vh auto;
+    align-items: center;
+	width: 85%;
+    opacity: 0.4;
+}
+
+.panel h1 {
+	text-align: center;
+}

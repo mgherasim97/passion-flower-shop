@@ -1,0 +1,23 @@
+
+.pre-header {
+    background-image: #fff;
+	height: 70px;
+	/* display: flex; */
+}
+
+.logo {
+	float: left;
+	height: 70px;
+}
+
+.contact-container {
+    float: right;
+    position: relative;
+    right: 10px;
+    top: 10px;
+}
+
+.contact {
+    margin-top: 1vh;
+    font-family: 'Open Sans' ;
+}
