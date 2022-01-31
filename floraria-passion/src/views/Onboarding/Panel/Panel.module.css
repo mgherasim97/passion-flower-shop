@@ -1,5 +1,10 @@
 .panel {
-
+    position: relative;
+    left: -10px;
+    box-sizing: border-box;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .panel hr {

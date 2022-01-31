@@ -1,12 +1,8 @@
 import styles from './LogoAndContact.module.css';
 
-import HeaderLogo from '../../../assets/HeaderLogo.png';
+import HeaderLogo from '../../../../assets/HeaderLogo.png';
 
 const LogoAndContact = () => {
-	const sakura = require('../../../../node_modules/sakura-js/dist/sakura.min.js');
-
-	console.log(sakura);
-
 	return (
 		<>
 			<div className={styles['pre-header']}>

@@ -1,5 +1,5 @@
-import HeaderMenu from '../HeaderMenu';
-import LogoAndContact from '../LogoAndContact';
+import HeaderMenu from './HeaderMenu';
+import LogoAndContact from './LogoAndContact';
 
 const Header = () => {
 	return (

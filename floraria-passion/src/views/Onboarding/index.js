@@ -1,15 +1,16 @@
-import Carousel from '../../components/UI/Carousel';
-import Panel from './Panel';
+
+import Carousel from './Carousel';
+import WhyChooseUs from './WhyChooseUs';
+import BestSellers from './BestSellers';
+import TagUs from './TagUs';
 
 const OnboardingPage = () => {
 	return (
 		<>
-			<Panel>
-				<Carousel/>
-			</Panel>
-			<Panel>
-				Bla
-			</Panel>
+			<Carousel />
+			<WhyChooseUs />
+			<BestSellers />
+			<TagUs />
 		</>
 	);
 };
